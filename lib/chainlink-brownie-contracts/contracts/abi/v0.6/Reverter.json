@@ -1,0 +1,7 @@
+[
+    {
+      "stateMutability": "payable",
+      "type": "fallback"
+    }
+  ]
+  
